@@ -1,0 +1,11 @@
+{
+  "extends": "solhint:recommended",
+  "rules": {
+    "avoid-sha3": "warn",
+    "max-line-length": ["warn", 120],
+    "no-unused-import": "error",
+    "imports-order": "warn",
+    "imports-on-top": "warn",
+    "indent": "off"
+  }
+}
